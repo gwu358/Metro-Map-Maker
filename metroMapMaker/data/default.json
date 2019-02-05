@@ -1,0 +1,122 @@
+
+{
+    "startHour":"1",
+    "endHour":"6",
+    "undergrad_tas":[
+        {
+            "name":"Abu Saeid",
+            "email":"asm.abdulkader@stonybrook.edu"
+        },
+        {
+            "name":"Bryan Robicheau",
+            "email":"bryan.robicheau@stonybrook.edu"
+        }
+    ],
+    "officeHours":[
+        {
+            "day":"TUESDAY",
+            "time":"2_30am",
+            "name":"Richard McKenna"
+        },
+        {
+            "day":"TUESDAY",
+            "time":"3_00am",
+            "name":"Richard McKenna"
+        },
+        {
+            "day":"THURSDAY",
+            "time":"2_30am",
+            "name":"Richard McKenna"
+        },
+        {
+            "day":"THURSDAY",
+            "time":"3_00am",
+            "name":"Richard McKenna"
+        },
+        {
+            "day":"TUESDAY",
+            "time":"3_30am",
+            "name":"Bryan Robicheau"
+        },
+        {
+            "day":"TUESDAY",
+            "time":"4_00am",
+            "name":"Bryan Robicheau"
+        },
+        {
+            "day":"TUESDAY",
+            "time":"4_30am",
+            "name":"Bryan Robicheau"
+        },
+        {
+            "day":"TUESDAY",
+            "time":"5_00am",
+            "name":"Bryan Robicheau"
+        },
+        {
+            "day":"TUESDAY",
+            "time":"3_30am",
+            "name":"Abu Saeid"
+        },
+        {
+            "day":"TUESDAY",
+            "time":"4_00am",
+            "name":"Abu Saeid"
+        },
+        {
+            "day":"TUESDAY",
+            "time":"4_30am",
+            "name":"Abu Saeid"
+        },
+        {
+            "day":"TUESDAY",
+            "time":"5_00am",
+            "name":"Abu Saeid"
+        },
+        {
+            "day":"THURSDAY",
+            "time":"3_30am",
+            "name":"Bryan Robicheau"
+        },
+        {
+            "day":"THURSDAY",
+            "time":"4_00am",
+            "name":"Bryan Robicheau"
+        },
+        {
+            "day":"THURSDAY",
+            "time":"4_30am",
+            "name":"Bryan Robicheau"
+        },
+        {
+            "day":"THURSDAY",
+            "time":"5_00am",
+            "name":"Bryan Robicheau"
+        },
+        {
+            "day":"THURSDAY",
+            "time":"3_30am",
+            "name":"Abu Saeid"
+        },
+        {
+            "day":"THURSDAY",
+            "time":"4_00am",
+            "name":"Abu Saeid"
+        },
+        {
+            "day":"THURSDAY",
+            "time":"4_30am",
+            "name":"Abu Saeid"
+        },
+        {
+            "day":"THURSDAY",
+            "time":"5_00am",
+            "name":"Abu Saeid"
+        },
+		{
+            "day":"THURSDAY",
+            "time":"1_00am",
+            "name":"Abu Saeid"
+        }
+    ]
+}
